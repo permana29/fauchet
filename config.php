@@ -1,7 +1,6 @@
 <?php
 $config = [
-	"558ca0ba-99a8-4857-9c53-7e8d345be145",
-	"558ca0ba-99a8-4857-9c53-7e8d345be145",
-	"558ca0ba-99a8-4857-9c53-7e8d345be145",
-	"558ca0ba-99a8-4857-9c53-7e8d345be145",
+	"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxx",
+//kamu bisa memasukan akun lainya dengan cara copy seperti di atas
+	//contohnya seperti ini "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxx",
 ];
